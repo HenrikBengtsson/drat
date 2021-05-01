@@ -1,4 +1,12 @@
 Package: sfit
+Version: 0.3.0
+Depends: R (>= 2.3.0)
+Imports: R.methodsS3 (>= 1.5.2)
+License: LGPL (>= 2.1)
+MD5sum: fddb6b28b6aa00056aaeb6be03ce0ea8
+NeedsCompilation: yes
+
+Package: sfit
 Version: 0.3.1
 Depends: R (>= 2.3.0)
 Imports: R.methodsS3 (>= 1.6.1)
@@ -6,3 +14,9 @@ License: LGPL (>= 2.1)
 MD5sum: 8d0cc6ad38164a6bfafc8b351c503262
 NeedsCompilation: yes
 
+Package: TopDomData
+Version: 0.2.0
+Depends: R (>= 3.3.0)
+License: GPL-3
+MD5sum: 0af202ff68deb95dc97fa4959c2cb0e1
+NeedsCompilation: no
